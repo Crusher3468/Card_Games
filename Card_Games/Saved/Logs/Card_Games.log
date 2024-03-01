@@ -1649,3 +1649,97 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.03.01-22.00.16:279][219]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BlackJack.BlackJack
 [2024.03.01-22.00.17:780][304]BlueprintLog: New page: Compile BlackJack
 [2024.03.01-22.00.17:819][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.03.01-22.02.19:064][555]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.01-22.02.20:507][611]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.01-22.02.26:008][844]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.01-22.02.29:244][975]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.01-22.02.32:675][113]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.01-22.02.35:253][213]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.01-22.02.38:759][354]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.01-22.02.52:312][959]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.01-22.03.00:414][304]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.01-22.03.05:021][509]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.01-22.03.15:551][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-22.03.15:647][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlackJack" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/BlackJack.uasset" SILENT=true
+[2024.03.01-22.03.15:654][ 54]LogSavePackage: Moving output files for package: /Game/BlackJack
+[2024.03.01-22.03.15:655][ 54]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/BlackJack5139634C49B77B00373708AEDC8F67EF.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/BlackJack.uasset'
+[2024.03.01-22.03.15:661][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 986 ms)
+[2024.03.01-22.03.15:662][ 54]AssetCheck: New page: Asset Save: BlackJack
+[2024.03.01-22.03.15:662][ 54]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BlackJack.BlackJack
+[2024.03.01-22.03.16:727][114]BlueprintLog: New page: Compile BlackJack
+[2024.03.01-22.03.16:763][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.03.01-22.03.35:484][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-22.03.35:569][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlackJack" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/BlackJack.uasset" SILENT=true
+[2024.03.01-22.03.35:575][995]LogSavePackage: Moving output files for package: /Game/BlackJack
+[2024.03.01-22.03.35:575][995]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/BlackJack706B8E004B80E31EC9AFC1A7955382BA.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/BlackJack.uasset'
+[2024.03.01-22.03.35:590][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 1.09 sec)
+[2024.03.01-22.03.35:591][995]AssetCheck: New page: Asset Save: BlackJack
+[2024.03.01-22.03.35:592][995]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BlackJack.BlackJack
+[2024.03.01-22.03.49:321][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-22.03.49:424][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlackJack" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/BlackJack.uasset" SILENT=true
+[2024.03.01-22.03.49:431][709]LogSavePackage: Moving output files for package: /Game/BlackJack
+[2024.03.01-22.03.49:432][709]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/BlackJack577E448B4C0FA3528754609A379A2427.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/BlackJack.uasset'
+[2024.03.01-22.03.49:438][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 1.20 sec)
+[2024.03.01-22.03.49:439][709]AssetCheck: New page: Asset Save: BlackJack
+[2024.03.01-22.03.49:439][709]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BlackJack.BlackJack
+[2024.03.01-22.03.50:587][768]BlueprintLog: New page: Compile BlackJack
+[2024.03.01-22.03.50:620][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.03.01-22.04.34:251][ 36]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.03.01-22.04.34:692][ 39]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.03.01-22.04.35:149][ 46]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.03.01-22.04.35:562][ 55]LogEditorTransaction: Undo Paste clipboard contents
+[2024.03.01-22.04.35:983][ 72]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.03.01-22.04.38:811][224]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.03.01-22.04.46:529][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-22.04.46:588][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlackJack" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/BlackJack.uasset" SILENT=true
+[2024.03.01-22.04.46:595][586]LogSavePackage: Moving output files for package: /Game/BlackJack
+[2024.03.01-22.04.46:595][586]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/BlackJackBB017E634E57F3B2A6FF7D89ECCDC23E.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/BlackJack.uasset'
+[2024.03.01-22.04.46:601][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.28 sec)
+[2024.03.01-22.04.46:603][586]AssetCheck: New page: Asset Save: BlackJack
+[2024.03.01-22.04.46:603][586]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BlackJack.BlackJack
+[2024.03.01-22.04.47:874][658]BlueprintLog: New page: Compile BlackJack
+[2024.03.01-22.04.47:916][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.03.01-22.06.10:136][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.03.01-22.06.10:139][505]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map' took 0.021
+[2024.03.01-22.06.10:139][505]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BlackJack] ([2] browsable assets)...
+[2024.03.01-22.06.10:144][505]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BlackJack.BlackJack]
+[2024.03.01-22.06.10:144][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlackJack]
+[2024.03.01-22.06.10:144][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlackJack" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/Autosaves/Game/BlackJack_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.03.01-22.06.10:151][505]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BlackJack_Auto2
+[2024.03.01-22.06.10:152][505]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/BlackJack_Auto2C1D678034CFEEFFFC061999E930C6B7F.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/Autosaves/Game/BlackJack_Auto2.uasset'
+[2024.03.01-22.06.10:152][505]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.03.01-22.10.35:198][262]LogInterchangeEngine: [Pending] Importing
+[2024.03.01-22.10.35:199][262]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/amarkdavidson/Downloads/360_F_420867335_srDH3p52ShctnCgpD6XPbdYUR1T0TB9B.jpg]
+[2024.03.01-22.10.35:200][262]LogInterchangeImport: JPEG file [C:/Users/amarkdavidson/Downloads/360_F_420867335_srDH3p52ShctnCgpD6XPbdYUR1T0TB9B.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.03.01-22.10.35:220][263]LogTexture: Display: Building textures: /Game/360_F_420867335_srDH3p52ShctnCgpD6XPbdYUR1T0TB9B.360_F_420867335_srDH3p52ShctnCgpD6XPbdYUR1T0TB9B (BGRA8, 617x360 x1x1x1) (Required Memory Estimate: 6.558624 MB), EncodeSpeed: Fast
+[2024.03.01-22.10.35:261][263]LogInterchangeEngine: [Success] Import Done
+[2024.03.01-22.10.35:266][263]LogInterchangeEngine: [Success] Import Done
+[2024.03.01-22.10.35:335][264]LogInterchangeEngine: [Success] Import Done
+[2024.03.01-22.10.46:108][707]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.03.01-22.12.22:237][844]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.01-22.12.23:787][905]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.01-22.12.48:688][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-22.12.48:774][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlackJack" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/BlackJack.uasset" SILENT=true
+[2024.03.01-22.12.48:783][ 34]LogSavePackage: Moving output files for package: /Game/BlackJack
+[2024.03.01-22.12.48:783][ 34]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/BlackJack64CE8DCD45F127D95ADD599450E2714A.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/BlackJack.uasset'
+[2024.03.01-22.12.48:790][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 1.38 sec)
+[2024.03.01-22.12.48:791][ 34]AssetCheck: New page: Asset Save: BlackJack
+[2024.03.01-22.12.48:791][ 34]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BlackJack.BlackJack
+[2024.03.01-22.12.49:918][ 97]BlueprintLog: New page: Compile BlackJack
+[2024.03.01-22.12.49:959][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.03.01-22.12.50:085][102]BlueprintLog: New page: Compile BlackJack
+[2024.03.01-22.12.50:120][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.03.01-22.12.50:396][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-22.12.50:474][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlackJack" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/BlackJack.uasset" SILENT=true
+[2024.03.01-22.12.50:482][115]LogSavePackage: Moving output files for package: /Game/BlackJack
+[2024.03.01-22.12.50:482][115]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/BlackJack02CAF7AA460B581D9FD267921D13C719.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/BlackJack.uasset'
+[2024.03.01-22.12.50:488][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.47 sec)
+[2024.03.01-22.12.50:489][115]AssetCheck: New page: Asset Save: BlackJack
+[2024.03.01-22.12.50:489][115]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BlackJack.BlackJack
+[2024.03.01-22.13.38:505][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-22.13.38:576][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlackJack" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/BlackJack.uasset" SILENT=true
+[2024.03.01-22.13.38:583][680]LogSavePackage: Moving output files for package: /Game/BlackJack
+[2024.03.01-22.13.38:583][680]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/BlackJack2F1B69DD4FF0B430C326FBA8890B51B7.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/BlackJack.uasset'
+[2024.03.01-22.13.38:587][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1.55 sec)
+[2024.03.01-22.13.38:589][680]AssetCheck: New page: Asset Save: BlackJack
+[2024.03.01-22.13.38:589][680]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BlackJack.BlackJack
