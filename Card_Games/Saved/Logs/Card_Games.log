@@ -1279,3 +1279,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.02-17.30.00:572][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 1.13 sec)
 [2024.03.02-17.30.00:573][595]AssetCheck: New page: Asset Save: Poker
 [2024.03.02-17.30.00:573][595]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Poker.Poker
+[2024.03.02-17.30.54:154][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-17.30.54:217][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Poker" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/Poker.uasset" SILENT=true
+[2024.03.02-17.30.54:223][  1]LogSavePackage: Moving output files for package: /Game/Poker
+[2024.03.02-17.30.54:224][  1]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/Poker78596FE74945B7ED0CF880A4D965EF2F.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/Poker.uasset'
+[2024.03.02-17.30.54:229][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 1.21 sec)
+[2024.03.02-17.30.54:231][  1]AssetCheck: New page: Asset Save: Poker
+[2024.03.02-17.30.54:231][  1]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Poker.Poker
