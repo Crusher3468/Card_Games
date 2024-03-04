@@ -1137,3 +1137,174 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 
 [2024.03.04-23.15.19:927][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.033586 secs
 [2024.03.04-23.15.20:117][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2024.03.04-23.15.57:035][864]LogSlate: Took 0.004519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.04-23.16.09:079][454]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.03.04-23.16.09:085][454]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.03.04-23.16.09:091][454]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.03.04-23.16.09:106][455]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.03.04-23.16.12:814][666]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> War
+[2024.03.04-23.16.12:826][666]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.03.04-23.16.14:587][760]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/War.War
+[2024.03.04-23.16.14:588][760]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-23.16.14:588][760]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-23.16.14:613][760]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-23.16.14:613][760]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-23.16.14:621][760]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.03.04-23.16.14:623][760]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.03.04-23.16.16:119][760]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.03.04-23.16.16:133][760]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.03.04-23.16.16:138][760]LogSlate: Took 0.005015 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.03.04-23.16.17:631][813]LogSlate: Window 'War' being destroyed
+[2024.03.04-23.16.19:303][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.16.19:390][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.16.19:398][913]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.007151 seconds
+[2024.03.04-23.16.19:401][913]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.16.19:401][913]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/WarFB8E422F44DBDF818317E9918E426D54.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.16.19:412][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms
+[2024.03.04-23.16.19:412][913]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.16.19:412][913]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
+[2024.03.04-23.16.19:537][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.16.19:603][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.16.19:605][921]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.16.19:606][921]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/War47868E23408381642EDF09A83030E384.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.16.19:610][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 181 ms)
+[2024.03.04-23.16.19:611][921]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.16.19:611][921]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
+[2024.03.04-23.17.19:189][419]LogDerivedDataCache: C:/Users/amarkdavidson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.648 and deleted 0 files with total size 0 MiB and 1258 empty folders. Scanned 3725 files in 6566 folders with total size 316 MiB.
+[2024.03.04-23.17.28:233][937]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Poker.Poker
+[2024.03.04-23.17.28:233][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-23.17.28:233][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-23.17.28:251][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.04-23.17.28:251][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.04-23.17.33:065][210]BlueprintLog: New page: Compile War
+[2024.03.04-23.17.33:094][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.03.04-23.17.40:966][656]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.17.41:052][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.17.41:054][656]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.17.41:055][656]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/War10A6DDAF4C9B1601B32B21838A96DCB9.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.17.41:060][656]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 275 ms)
+[2024.03.04-23.17.41:061][656]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.17.41:061][656]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
+[2024.03.04-23.17.42:015][712]BlueprintLog: New page: Compile War
+[2024.03.04-23.17.42:038][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.03.04-23.18.51:393][869]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.03.04-23.18.51:393][869]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.03.04-23.27.31:902][477]LogInterchangeEngine: [Pending] Importing
+[2024.03.04-23.27.31:902][477]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/amarkdavidson/Downloads/Green background.jpg]
+[2024.03.04-23.27.31:904][477]LogInterchangeImport: JPEG file [C:/Users/amarkdavidson/Downloads/Green background.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.03.04-23.27.31:908][477]LogTexture: Display: Building textures: /Game/Green_background.Green_background (TFO_AutoDXT, 540x360 x1x1x1) (Required Memory Estimate: 30.714355 MB), EncodeSpeed: Fast
+[2024.03.04-23.27.31:908][477]LogInterchangeEngine: [Success] Import Done
+[2024.03.04-23.27.31:916][478]LogAutomationController: Ignoring very large delta of 3.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.04-23.27.31:941][478]LogInterchangeEngine: [Success] Import Done
+[2024.03.04-23.27.36:399][711]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.03.04-23.27.50:060][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.27.50:127][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.27.50:130][528]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.27.50:130][528]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/War40FFCA2449EE818C38AA94A8439F8EBE.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.27.50:135][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 349 ms)
+[2024.03.04-23.27.50:137][528]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.27.50:137][528]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
+[2024.03.04-23.27.51:108][587]BlueprintLog: New page: Compile War
+[2024.03.04-23.27.51:132][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.03.04-23.28.38:634][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.28.38:726][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.28.38:729][558]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.28.38:729][558]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/War15A7E7C643EAC3331EA1589CF3FB1CE2.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.28.38:734][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 450 ms)
+[2024.03.04-23.28.38:736][558]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.28.38:736][558]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
+[2024.03.04-23.29.20:624][974]BlueprintLog: New page: Compile War
+[2024.03.04-23.29.20:650][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.03.04-23.29.21:883][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.29.21:948][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.29.21:952][ 46]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.29.21:952][ 46]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/War9ED6E1D9460058F6CDFCE7A96C7AD772.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.29.21:957][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 523 ms)
+[2024.03.04-23.29.21:958][ 46]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.29.21:958][ 46]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
+[2024.03.04-23.30.10:851][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.30.10:933][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.30.10:937][927]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.30.10:937][927]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/War4655311D43D65A4A5EA9BFA5EF6C12D5.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.30.10:942][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 614 ms)
+[2024.03.04-23.30.10:944][927]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.30.10:944][927]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
+[2024.03.04-23.30.46:509][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.30.46:589][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.30.46:593][988]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.30.46:594][988]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/War016B14B74B8276D56E2FD8939C91D664.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.30.46:599][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 704 ms)
+[2024.03.04-23.30.46:601][988]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.30.46:601][988]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
+[2024.03.04-23.30.46:992][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.30.47:071][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.30.47:075][ 12]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.30.47:075][ 12]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/WarD8369B7A4E40712FEBE518AD1C16B078.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.30.47:080][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 792 ms)
+[2024.03.04-23.30.47:081][ 12]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.30.47:081][ 12]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
+[2024.03.04-23.30.47:222][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.30.47:310][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.30.47:314][ 21]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.30.47:315][ 21]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/WarC7EA804D4441CDFC1D71F98C2651973B.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.30.47:320][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 890 ms)
+[2024.03.04-23.30.47:321][ 21]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.30.47:321][ 21]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
+[2024.03.04-23.30.52:878][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.30.52:956][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.30.52:959][352]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.30.52:960][352]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/WarD8EC944C4123D7EB00A032BB5924EEB5.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.30.52:964][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 976 ms)
+[2024.03.04-23.30.52:966][352]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.30.52:966][352]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
+[2024.03.04-23.30.53:257][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.30.53:334][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.30.53:338][370]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.30.53:338][370]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/War8F605B5546508C0439F90BB0868BB5B3.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.30.53:343][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1.06 sec)
+[2024.03.04-23.30.53:344][370]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.30.53:344][370]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
+[2024.03.04-23.30.53:452][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.30.53:515][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.30.53:519][377]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.30.53:519][377]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/WarCA772A814486B6EDC6C618A35FCB801D.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.30.53:526][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 1.13 sec)
+[2024.03.04-23.30.53:527][377]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.30.53:527][377]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
+[2024.03.04-23.30.53:685][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.30.53:767][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.30.53:771][387]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.30.53:772][387]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/War391870E640AF2D56BCA2E997566DEFBD.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.30.53:776][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.22 sec)
+[2024.03.04-23.30.53:778][387]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.30.53:778][387]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
+[2024.03.04-23.30.53:869][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.30.53:950][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.30.53:954][393]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.30.53:954][393]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/War41440D554A2D39EBD3F191B1E1A9DF42.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.30.53:961][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 1.31 sec)
+[2024.03.04-23.30.53:962][393]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.30.53:962][393]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
+[2024.03.04-23.30.54:054][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.30.54:133][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.30.54:137][399]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.30.54:138][399]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/WarAFFDEB06433A026949AC76BC05DC7DB6.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.30.54:142][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.40 sec)
+[2024.03.04-23.30.54:144][399]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.30.54:144][399]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
+[2024.03.04-23.30.54:738][434]BlueprintLog: New page: Compile War
+[2024.03.04-23.30.54:762][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.03.04-23.30.55:357][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.30.55:420][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.30.55:424][468]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.30.55:424][468]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/War668C46D54E6336B8239F1AB890327E26.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.30.55:437][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1.48 sec)
+[2024.03.04-23.30.55:438][468]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.30.55:438][468]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
+[2024.03.04-23.30.55:596][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-23.30.55:683][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/War" FILE="../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset" SILENT=true
+[2024.03.04-23.30.55:688][478]LogSavePackage: Moving output files for package: /Game/War
+[2024.03.04-23.30.55:688][478]LogSavePackage: Moving '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Saved/WarB3FA0E4C40B9B7A0517C6FBC954D2801.tmp' to '../../../../../../Users/amarkdavidson/source/repos/Card_Games/Card_Games/Content/War.uasset'
+[2024.03.04-23.30.55:693][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.58 sec)
+[2024.03.04-23.30.55:694][478]AssetCheck: New page: Asset Save: War
+[2024.03.04-23.30.55:694][478]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/War.War
