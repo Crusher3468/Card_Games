@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/HomeworkShiz/Card_Games/Card_Games/Content/War.uasset",
+				"C:/HomeworkShiz/Card_Games/Card_Games/Content/GameSelectMenu.uasset",
+				"C:/HomeworkShiz/Card_Games/Card_Games/Content/BlackJack.uasset",
+				"C:/HomeworkShiz/Card_Games/Card_Games/Content/CasinoAssets/CardGames.umap",
+				"C:/HomeworkShiz/Card_Games/Card_Games/Content/CasinoAssets/UI_Card.uasset",
 				"C:/Users/platt/Documents/Unreal Projects/Card_Games/Card_Games/Content/Slots/Map_Slots.umap",
 				"C:/Users/platt/Documents/Unreal Projects/Card_Games/Card_Games/Content/Slots/CodeConsole_Display.uasset",
 				"C:/Users/platt/Documents/Unreal Projects/Card_Games/Card_Games/Content/Slots/CodeConsole_Lever.uasset",
